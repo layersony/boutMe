@@ -1,0 +1,10 @@
+body{
+  background-color: rgba(0, 128, 0, 0.561);
+}
+.mainbd{
+  display: flex;
+  
+}
+.boutImg{
+  width: 400px;
+}
